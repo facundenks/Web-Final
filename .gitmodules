@@ -1,0 +1,3 @@
+[submodule "tpFinalAngular"]
+	path = tpFinalAngular
+	url = ../tpFinalAngular.git
