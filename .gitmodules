@@ -1,0 +1,3 @@
+[submodule "Angular"]
+	path = Angular
+	url = ../Web-Final.git
