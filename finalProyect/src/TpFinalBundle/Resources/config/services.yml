@@ -1,0 +1,4 @@
+services:
+#    tp_final.example:
+#        class: TpFinalBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
